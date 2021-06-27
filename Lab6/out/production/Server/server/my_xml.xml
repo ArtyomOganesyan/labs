@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<routes>
+	<route name="Route1" distance="1000">
+		<coordinates x="12" y="13" />
+		<location_from name="Moscow" x="15" y="16" z="17" />
+		<location_to name="SPb" x="18" y="19" z="20" />
+	</route>
+	<route name="Route2" distance="3000">
+		<coordinates x="21" y="22" />
+		<location_from name="Moscow" x="23" y="24" z="25" />
+		<location_to name="Chern" x="28" y="27" z="26" />
+	</route>
+	<route name="Route3" distance="3000">
+		<coordinates x="21" y="22" />
+		<location_from name="Tula" x="23" y="24" z="25" />
+		<location_to name="Chern" x="28" y="27" z="26" />
+	</route>
+	<route name="Route4" distance="500">
+		<coordinates x="21" y="22" />
+		<location_from name="SPb" x="23" y="24" z="25" />
+		<location_to name="Tula" x="28" y="27" z="26" />
+	</route>
+</routes>
